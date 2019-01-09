@@ -9,9 +9,9 @@ OEP-0019: Developer Documentation
    * - Title
      - Developer Documentation
    * - Last Modified
-     - 2018-11-28
+     - 2019-01-09
    * - Authors
-     - Grant Goodman, Robert Raposa, Nimisha Asthagiri
+     - Grant Goodman, Robert Raposa, Ned Batchelder, Nimisha Asthagiri
    * - Arbiter
      - Cali Stenson
    * - Status
@@ -21,7 +21,7 @@ OEP-0019: Developer Documentation
    * - Created
      - 2018-03-27
    * - Review Period
-     - 2018-12-06 - 2018-12-20
+     - 2018-12-06 - 2019-01-11
 
 .. image:: oep-0019/write.png
    :align: right
